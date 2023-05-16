@@ -1,3 +1,6 @@
+import streamlit as st
+
+
 st.tilte("this is the app title")
 st.header("this is the mark")
 st.markdowni("this is the header")
